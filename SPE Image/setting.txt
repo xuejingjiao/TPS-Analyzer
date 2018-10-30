@@ -1,0 +1,10 @@
+B field (T) : 0.44
+E field (V/cm) : 20.0
+L_M (cm) : 10.0
+L_ME (cm) : 5.0
+L_E (cm) : 22.5
+L_ES (cm) : 7.0
+X0 : 127
+Y0 : 153
+Tilt : 0.0
+Scale : 154.0
