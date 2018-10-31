@@ -7,14 +7,15 @@ To run
     $ python main.py
 
 The complete package contains the following files:
-    main.py
-    Window.py -- Graphic user interface
-    Trajectory.py -- create a trajectory object from a given set of parameters
-    SPEFile.py -- parsing the Princeton Instrument .SPE file and extract image.
-    Element Table.py -- parsing the isotope data
-    Isotope.dat -- data including all stable isotopes and its AUM mass
-    SystemOfUnits.py -- units system for the software
-    illustration.png -- illlustration of the TPS configuration
+
+* main.py
+* Window.py -- Graphic user interface
+* Trajectory.py -- create a trajectory object from a given set of parameters
+* SPEFile.py -- parsing the Princeton Instrument .SPE file and extract image.
+* Element Table.py -- parsing the isotope data
+* Isotope.dat -- data including all stable isotopes and its AUM mass
+* SystemOfUnits.py -- units system for the software
+* illustration.png -- illlustration of the TPS configuration
 
 A separate folder containing the source images and configuration data was included for evaluation. 
 The most significant traces in these image are C6+, C5+ and H+ ions. 
