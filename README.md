@@ -1,9 +1,8 @@
 Thompson Parabola Spectrometer Analyzer
 
-This is a GUI program for analyzing Tompson Parabola Spectrometer (TPS).
-For more information about TPS, visit:
+This is a GUI program for analyzing Tompson Parabola Spectrometer (TPS) Image.
 
-Before you run this codemake sure you have PyQt5.11 + installed. 
+Before you run this code make sure you have PyQt5.11+ installed. 
 To run
     $ python main.py
 
